@@ -4616,12 +4616,12 @@
     "isEnabledAll": false
   },
   {
-  "appName": "天气",
+  "appName": "天气·Nothing",
   "packageName": "com.nothing.weather",
   "iconBitmap": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACM0lEQVR4nO3WwXETQRCF4dcZOAOcATpwZ/ZMEDgEE4GfIoAQzJEoNJuBuHEkBIhAvGVqCyHcO2rVjPBW+av6T23J3WXZa8PlEoCdOrZVxBWZulTCSg+4A/BefVNf1LE36p36qu5Vd5ccQAAPalQJfyP8WRemogh/ScKfdWEqivCXJPxZF6aiCH9Jwp+dulGvVc30Xi5TUYS/JOHPTiX8+1fsKaZci0MH4S9J+LNTCSs/YPoIbVRNxgJTUYS/JOHPujAVRfhLEv6sC1NRhL8k4c+6MBVF+EsS/qwLU1GEvyThz7owFUX4SxL+rAtTUYS/JOHPTiWs/DmQsPIDbtRG1WQsMBVF+EsS/qwLU1GEvyThz7owFUX4SxL+rAtTUURZcq/u1bE7lEaVcAWmoohywJJRJVyBqSji5YDfNuqjqhmUy1QU0eaAhP/8IFsyqoRltyi/8DXEAlNRRJsDmjAVRbwc0I6pKGKlB2QAb1VU5HuERd48Y6UH7NRkevDcqCWf1SPK184PqYzig9qrpkzVHNS5tooon/+dOjaojMZM1RzUuTJKx+/7oCaDymjMVM1BRY0qoZhfP6iMxkzVzAtEjCqhmF8/qIzGTNXMC0SMKqGYXz+ojMZM1cwLRIwqoZhfP6iMxkzVzAtE/FB7NUkoBpXRmKmaSw54yqAyGjNVQxR3AF6pqK2aPAL4jsZMnStjpf9KzD6pjbpF/SfxU+3VJKEjU1HEn6erZ1QJV2AqinhGB/wCeRqkMbB23FAAAAAASUVORK5CYII=", 
   "iconColor": "#ff232323",
   "contributorName": "XVE",
   "isEnabled": true,
-  "isEnabledAll": false ,
+  "isEnabledAll": false 
 }
 ]
